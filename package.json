@@ -12,7 +12,7 @@
   },
   "license": "MIT",
   "main": "lib/null-function.js",
-  "name": "immutable-app",
+  "name": "null-function",
   "repository": "warncke/null-function",
   "scripts": {
     "test": "mocha"
