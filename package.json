@@ -1,0 +1,21 @@
+{
+  "author": "Ersun Warncke <ersun.warncke@gmail.com>",
+  "dependencies": {
+  },
+  "description": "Exports a null function",
+  "devDependencies": {
+    "chai": "3.5.0",
+    "mocha": "3.2.0"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "license": "MIT",
+  "main": "lib/null-function.js",
+  "name": "immutable-app",
+  "repository": "warncke/null-function",
+  "scripts": {
+    "test": "mocha"
+  },
+  "version": "1.0.0"
+}
