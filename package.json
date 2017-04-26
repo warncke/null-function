@@ -1,11 +1,10 @@
 {
   "author": "Ersun Warncke <ersun.warncke@gmail.com>",
-  "dependencies": {
-  },
+  "dependencies": {},
   "description": "Exports a null function",
   "devDependencies": {
     "chai": "3.5.0",
-    "mocha": "3.2.0"
+    "mocha": "3.3.0"
   },
   "directories": {
     "test": "test"
@@ -17,5 +16,5 @@
   "scripts": {
     "test": "mocha"
   },
-  "version": "1.0.0"
+  "version": "1.0.1"
 }
