@@ -3,7 +3,7 @@
   "dependencies": {},
   "description": "Exports a null function",
   "devDependencies": {
-    "chai": "4.0.0",
+    "chai": "4.0.1",
     "mocha": "3.4.2"
   },
   "directories": {
@@ -16,5 +16,5 @@
   "scripts": {
     "test": "mocha"
   },
-  "version": "1.0.4"
+  "version": "1.0.5"
 }
